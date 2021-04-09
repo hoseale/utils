@@ -1,3 +1,4 @@
+// 数组链式调用
 async function linkAsync(arr, cb) {
 	try {
 		const len = arr.length;
